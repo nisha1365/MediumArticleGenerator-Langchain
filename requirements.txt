@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+openai
+wikipedia
+chromadb
+tiktoken
+langchain-openai
+mypy-extensions
+numexpr
